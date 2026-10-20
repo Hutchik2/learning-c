@@ -11,7 +11,7 @@
 - Learning C helps you understand how computers work
 
 ## Compilation process
-[Figure out how to put picture here]
+![Compilation process](images/01-compilation.jpg)
 
 
 ## Compilation explained
